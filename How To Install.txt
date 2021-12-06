@@ -1,0 +1,17 @@
+contact info
+https://www.facebook.com/iHaidra
+https://t.me/iHaidra
+----------------------------------------
+Copy a library socket-library-mt4-mt5.mql5 in Include folder 
+In both MT4 platforms Darwinex(Fast) And (Slow) Brokers
+
+Copy Darwinex_Feed.ex4 in Experts Folder For Darwinex MT4
+
+Copy iHaidra.ex4 in Experts Folder For Admiral Markets Or Slow Brokers MT4
+And Run Both Expert
+FP Markets =[GapSize=1000 TP=400 ] 
+Admiral Markets =[GapSize=800 TP=500 ] 
+XM Global  =[GapSize=900 TP=500 ]
+Royal  =[GapSize=900 TP=500 ]
+
+Recommended brokers ( XM - FPMarkets - RoyalPlatforms-US30 ...)

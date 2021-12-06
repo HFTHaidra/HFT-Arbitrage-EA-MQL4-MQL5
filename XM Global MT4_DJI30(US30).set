@@ -1,0 +1,11 @@
+ResiverID=27001
+MaxDigits_=2
+LotSize=1.0
+GapSize=900
+TP=500
+FixTimeExitOrderSecond=3
+FixTimeNewOrderSecond=10
+Comment_=Testing123
+TimeToStartTrade=1
+TimeToStopTrade=23
+MaxMod=50
