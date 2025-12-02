@@ -1,6 +1,5 @@
-contact info
-https://www.facebook.com/iHaidra
-https://t.me/iHaidra
+contact info 
+https://t.me/HFTHaidra
 ----------------------------------------
 Copy a library socket-library-mt4-mt5.mql5 in Include folder 
 In both MT4 platforms Darwinex(Fast) And (Slow) Brokers
@@ -15,3 +14,4 @@ XM Global  =[GapSize=900 TP=500 ]
 Royal  =[GapSize=900 TP=500 ]
 
 Recommended brokers ( XM - FPMarkets - RoyalPlatforms-US30 ...)
+
